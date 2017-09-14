@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:37:17 -0300] "GET / HTTP/1.1" 404 - http-bio-8082-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:37:18 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8082-exec-2 0
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:37:18 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8082-exec-3 0
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:22 -0300] "GET /home HTTP/1.1" 404 - http-bio-8082-exec-5 0
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:45 -0300] "GET /myGym/ HTTP/1.1" 200 481 http-bio-8082-exec-6 49
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:45 -0300] "GET /myGym/js/my-gym-module.js HTTP/1.1" 200 27 http-bio-8082-exec-8 81
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:45 -0300] "GET /myGym/js/index.controller.js HTTP/1.1" 200 176 http-bio-8082-exec-9 90
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:45 -0300] "GET /myGym/js/entity/quadra/quadra-controller.js HTTP/1.1" 200 403 http-bio-8082-exec-10 122
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:45 -0300] "GET /myGym/js/lib/angular/angular.js HTTP/1.1" 200 1249863 http-bio-8082-exec-7 291
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:38:49 -0300] "GET /myGym/js/entity/quadra/quadra-template.html HTTP/1.1" 200 538 http-bio-8082-exec-7 7
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:20:39:09 -0300] "GET /myGym/Quadra?method=GET_ALL HTTP/1.1" 200 245 http-bio-8082-exec-5 19745
+0:0:0:0:0:0:0:1 - - [02/Sep/2017:22:59:48 -0300] "GET / HTTP/1.1" 404 - http-bio-8082-exec-1 0
